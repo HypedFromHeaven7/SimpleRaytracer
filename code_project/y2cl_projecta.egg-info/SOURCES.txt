@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+raytracer/__init__.py
+raytracer/analysis.py
+tests/test_fine_details.py
+tests/test_important_details.py
+tests/test_tasks.py
+y2cl_projecta.egg-info/PKG-INFO
+y2cl_projecta.egg-info/SOURCES.txt
+y2cl_projecta.egg-info/dependency_links.txt
+y2cl_projecta.egg-info/requires.txt
+y2cl_projecta.egg-info/top_level.txt
